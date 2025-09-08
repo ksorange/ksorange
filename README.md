@@ -1,5 +1,6 @@
 <img width="3780" height="1890" alt="White Minimalist Simple Coming Soon Banner" src="https://github.com/user-attachments/assets/aab28598-62ad-4251-94f9-1d3accf66972" />
-# 𐔌՞. .՞𐦯 Hi, I’m Kyla Sabines
+
+# Hi, I’m Kyla Sabines 𐔌՞. .՞𐦯
 
 𝜗ৎ **IT Student @ USTP-CDO** | ᥫ᭡. Currently learning **Full-Stack Development & OOP**
 
@@ -27,7 +28,7 @@ Welcome to my GitHub! This is where I share my coding journey, projects, and exp
 ## ₊˚ʚ 🌱 ₊˚✧ ﾟ. Connect with Me ₊˚ʚ 🌱 ₊˚✧ ﾟ.
 
 * 📧 \kyla.sabines@1.ustp.edu.ph
-* 💼 \[LinkedIn Profile] (optional if you have)
+* 💼 \https://www.linkedin.com/in/kyla-sabines-974250286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 
 ---
