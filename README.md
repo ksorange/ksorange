@@ -25,7 +25,7 @@ Welcome to my GitHub! This is where I share my coding journey, projects, and exp
 * ↳ **SQS³ OOP Repository** – A collaborative GitHub repo for lab exercises, Java projects, and team discussions.
 
 
-## ₊˚ʚ 🌱 ₊˚✧ ﾟ. Connect with Me ₊˚ʚ 🌱 ₊˚✧ ﾟ.
+#### ₊˚ʚ 🌱 ₊˚✧ ﾟ. Connect with Me ₊˚ʚ 🌱 ₊˚✧ ﾟ.
 
 * 📧 \kyla.sabines@1.ustp.edu.ph
 * 💼 \https://www.linkedin.com/in/kyla-sabines-974250286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
