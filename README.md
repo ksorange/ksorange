@@ -1,5 +1,5 @@
 <img width="3780" height="1890" alt="White Minimalist Simple Coming Soon Banner" src="https://github.com/user-attachments/assets/aab28598-62ad-4251-94f9-1d3accf66972" />
-#𐔌՞. .՞𐦯 Hi, I’m Kyla Sabines
+# 𐔌՞. .՞𐦯 Hi, I’m Kyla Sabines
 
 𝜗ৎ **IT Student @ USTP-CDO** | ᥫ᭡. Currently learning **Full-Stack Development & OOP**
 
